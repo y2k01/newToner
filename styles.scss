@@ -241,9 +241,21 @@ body {
 
             }
           }
+
           nav {
             min-width: 250px;
             font-size: 10px;
+          }
+          .phone {
+            margin: 15px;
+            .phone-img {
+              height: 15px;
+              width: 15px;
+              padding-top: 2px;
+            }
+            .phone-number {
+              margin: 0;
+            }
           }
         }
         .main {

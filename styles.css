@@ -210,6 +210,17 @@ body section .workarea .main-image:hover {
     min-width: 250px;
     font-size: 10px;
   }
+  body section .workarea header .phone {
+    margin: 15px;
+  }
+  body section .workarea header .phone .phone-img {
+    height: 15px;
+    width: 15px;
+    padding-top: 2px;
+  }
+  body section .workarea header .phone .phone-number {
+    margin: 0;
+  }
   body section .workarea .main {
     margin-top: 30px;
     justify-content: center;
